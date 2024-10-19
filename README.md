@@ -108,10 +108,11 @@ while True:
 
 ## Output
 ## Client 
-![image](https://github.com/user-attachments/assets/d58cf3da-34c3-4b41-b779-6138b13d1ec2)
+![image](https://github.com/user-attachments/assets/ce008ad0-8fd2-4212-b32e-b4e9c7a2fa11)
+
 
 ## Server
-![image](https://github.com/user-attachments/assets/0443f37d-d832-44a5-8a68-4f92af3be32e)
+![image](https://github.com/user-attachments/assets/2e8fa133-ff46-4a14-b741-0d329d7da839)
 
 
 ## Result:
